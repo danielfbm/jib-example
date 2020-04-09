@@ -40,7 +40,7 @@
         <version>${jib-maven-plugin.version}</version>
         <configuration>
           <to>
-            <image>index.alauda.cn/alaudak8s/jib-example</image>
+            <image>jfrog-demo.alauda.cn/docker/jib-example</image>
           </to>
           <from>
             <image>index.alauda.cn/alaudak8s/openjdk:8-slim</image>
